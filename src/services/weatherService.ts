@@ -9,7 +9,7 @@ import {
 } from '../utils/worldGeo';
 
 export async function loadWeatherConfig(
-  url = '/weather-config.json',
+  url = `${import.meta.env.BASE_URL}weather-config.json`,
 ): Promise<WeatherWorldConfig> {
   const res = await fetch(url, { cache: 'no-store' });
   if (!res.ok) {

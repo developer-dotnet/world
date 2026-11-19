@@ -95,7 +95,7 @@ export function App() {
   const loadDefaultConfig = useCallback(async () => {
     setConfigError(null);
     try {
-      const loaded = await loadWeatherConfig('/weather-config.json');
+      const loaded = await loadWeatherConfig();
       setConfig(loaded);
       runWeatherFetch(loaded);
     } catch (err) {
