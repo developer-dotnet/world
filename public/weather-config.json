@@ -1,0 +1,3857 @@
+{
+  "zoomAggregate": 120,
+  "countries": [
+    {
+      "name": "Afghanistan",
+      "ISO": "AFG",
+      "weatherLocations": [
+        {
+          "name": "Kabul",
+          "latitude": 34.5553,
+          "longitude": 69.2075,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=34.5553&longitude=69.2075&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Åland",
+      "ISO": "ALA",
+      "weatherLocations": [
+        {
+          "name": "Åland",
+          "latitude": 60.2669,
+          "longitude": 19.9541,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=60.2669&longitude=19.9541&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Albania",
+      "ISO": "ALB",
+      "weatherLocations": [
+        {
+          "name": "Tirana",
+          "latitude": 41.3275,
+          "longitude": 19.8187,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=41.3275&longitude=19.8187&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Algeria",
+      "ISO": "DZA",
+      "weatherLocations": [
+        {
+          "name": "Algiers",
+          "latitude": 36.7538,
+          "longitude": 3.0588,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=36.7538&longitude=3.0588&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Oran",
+          "latitude": 35.6971,
+          "longitude": -0.6308,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=35.6971&longitude=-0.6308&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Tamanrasset",
+          "latitude": 22.785,
+          "longitude": 5.5228,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=22.785&longitude=5.5228&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "American Samoa",
+      "ISO": "ASM",
+      "weatherLocations": [
+        {
+          "name": "American Samoa",
+          "latitude": -14.3071,
+          "longitude": -170.7074,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-14.3071&longitude=-170.7074&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Andorra",
+      "ISO": "AND",
+      "weatherLocations": [
+        {
+          "name": "Andorra la Vella",
+          "latitude": 42.5063,
+          "longitude": 1.5218,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=42.5063&longitude=1.5218&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Angola",
+      "ISO": "AGO",
+      "weatherLocations": [
+        {
+          "name": "Luanda",
+          "latitude": -8.839,
+          "longitude": 13.2894,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-8.839&longitude=13.2894&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Lubango",
+          "latitude": -14.9172,
+          "longitude": 13.4925,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-14.9172&longitude=13.4925&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Anguilla",
+      "ISO": "AIA",
+      "weatherLocations": [
+        {
+          "name": "Anguilla",
+          "latitude": 18.2252,
+          "longitude": -63.0546,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=18.2252&longitude=-63.0546&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Antarctica",
+      "ISO": "ATA",
+      "weatherLocations": [
+        {
+          "name": "McMurdo Station",
+          "latitude": -77.8419,
+          "longitude": 166.6863,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-77.8419&longitude=166.6863&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Palmer Station",
+          "latitude": -64.7743,
+          "longitude": -64.0538,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-64.7743&longitude=-64.0538&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Antigua and Barb.",
+      "ISO": "ATG",
+      "weatherLocations": [
+        {
+          "name": "Antigua and Barb.",
+          "latitude": 17.0732,
+          "longitude": -61.7619,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=17.0732&longitude=-61.7619&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Argentina",
+      "ISO": "ARG",
+      "weatherLocations": [
+        {
+          "name": "Buenos Aires",
+          "latitude": -34.6037,
+          "longitude": -58.3816,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-34.6037&longitude=-58.3816&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Cordoba",
+          "latitude": -31.4201,
+          "longitude": -64.1888,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-31.4201&longitude=-64.1888&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Rosario",
+          "latitude": -32.9442,
+          "longitude": -60.6505,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-32.9442&longitude=-60.6505&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Mendoza",
+          "latitude": -32.8895,
+          "longitude": -68.8458,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-32.8895&longitude=-68.8458&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Ushuaia",
+          "latitude": -54.8019,
+          "longitude": -68.303,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-54.8019&longitude=-68.303&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Armenia",
+      "ISO": "ARM",
+      "weatherLocations": [
+        {
+          "name": "Yerevan",
+          "latitude": 40.1872,
+          "longitude": 44.5152,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=40.1872&longitude=44.5152&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Aruba",
+      "ISO": "ABW",
+      "weatherLocations": [
+        {
+          "name": "Aruba",
+          "latitude": 12.5071,
+          "longitude": -69.9681,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=12.5071&longitude=-69.9681&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Australia",
+      "ISO": "AUS",
+      "weatherLocations": [
+        {
+          "name": "Sydney",
+          "latitude": -33.8688,
+          "longitude": 151.2093,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-33.8688&longitude=151.2093&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Melbourne",
+          "latitude": -37.8136,
+          "longitude": 144.9631,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-37.8136&longitude=144.9631&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Brisbane",
+          "latitude": -27.4698,
+          "longitude": 153.0251,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-27.4698&longitude=153.0251&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Perth",
+          "latitude": -31.9505,
+          "longitude": 115.8605,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-31.9505&longitude=115.8605&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Adelaide",
+          "latitude": -34.9285,
+          "longitude": 138.6007,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-34.9285&longitude=138.6007&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Darwin",
+          "latitude": -12.4634,
+          "longitude": 130.8456,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-12.4634&longitude=130.8456&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Alice Springs",
+          "latitude": -23.698,
+          "longitude": 133.8807,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-23.698&longitude=133.8807&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Austria",
+      "ISO": "AUT",
+      "weatherLocations": [
+        {
+          "name": "Vienna",
+          "latitude": 48.2082,
+          "longitude": 16.3738,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=48.2082&longitude=16.3738&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Azerbaijan",
+      "ISO": "AZE",
+      "weatherLocations": [
+        {
+          "name": "Baku",
+          "latitude": 40.4093,
+          "longitude": 49.8671,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=40.4093&longitude=49.8671&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Bahamas",
+      "ISO": "BHS",
+      "weatherLocations": [
+        {
+          "name": "Nassau",
+          "latitude": 25.0343,
+          "longitude": -77.3963,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=25.0343&longitude=-77.3963&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Bahrain",
+      "ISO": "BHR",
+      "weatherLocations": [
+        {
+          "name": "Manama",
+          "latitude": 26.2285,
+          "longitude": 50.586,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=26.2285&longitude=50.586&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Bangladesh",
+      "ISO": "BGD",
+      "weatherLocations": [
+        {
+          "name": "Dhaka",
+          "latitude": 23.8103,
+          "longitude": 90.4125,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=23.8103&longitude=90.4125&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Barbados",
+      "ISO": "BRB",
+      "weatherLocations": [
+        {
+          "name": "Bridgetown",
+          "latitude": 13.1132,
+          "longitude": -59.5988,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=13.1132&longitude=-59.5988&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Belarus",
+      "ISO": "BLR",
+      "weatherLocations": [
+        {
+          "name": "Minsk",
+          "latitude": 53.9006,
+          "longitude": 27.559,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=53.9006&longitude=27.559&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Belgium",
+      "ISO": "BEL",
+      "weatherLocations": [
+        {
+          "name": "Brussels",
+          "latitude": 50.8503,
+          "longitude": 4.3517,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=50.8503&longitude=4.3517&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Belize",
+      "ISO": "BLZ",
+      "weatherLocations": [
+        {
+          "name": "Belize City",
+          "latitude": 17.5046,
+          "longitude": -88.1962,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=17.5046&longitude=-88.1962&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Benin",
+      "ISO": "BEN",
+      "weatherLocations": [
+        {
+          "name": "Cotonou",
+          "latitude": 6.3703,
+          "longitude": 2.3912,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=6.3703&longitude=2.3912&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Bermuda",
+      "ISO": "BMU",
+      "weatherLocations": [
+        {
+          "name": "Bermuda",
+          "latitude": 32.3077,
+          "longitude": -64.7655,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=32.3077&longitude=-64.7655&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Bhutan",
+      "ISO": "BTN",
+      "weatherLocations": [
+        {
+          "name": "Thimphu",
+          "latitude": 27.4728,
+          "longitude": 89.639,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=27.4728&longitude=89.639&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Bolivia",
+      "ISO": "BOL",
+      "weatherLocations": [
+        {
+          "name": "La Paz",
+          "latitude": -16.4897,
+          "longitude": -68.1193,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-16.4897&longitude=-68.1193&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Santa Cruz",
+          "latitude": -17.7833,
+          "longitude": -63.1821,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-17.7833&longitude=-63.1821&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Bosnia and Herz.",
+      "ISO": "BIH",
+      "weatherLocations": [
+        {
+          "name": "Sarajevo",
+          "latitude": 43.8563,
+          "longitude": 18.4131,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=43.8563&longitude=18.4131&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Botswana",
+      "ISO": "BWA",
+      "weatherLocations": [
+        {
+          "name": "Gaborone",
+          "latitude": -24.6282,
+          "longitude": 25.9231,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-24.6282&longitude=25.9231&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Br. Indian Ocean Ter.",
+      "ISO": "IOT",
+      "weatherLocations": [
+        {
+          "name": "Br. Indian Ocean Ter.",
+          "latitude": -7.3212,
+          "longitude": 72.4489,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-7.3212&longitude=72.4489&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Brazil",
+      "ISO": "BRA",
+      "weatherLocations": [
+        {
+          "name": "Sao Paulo",
+          "latitude": -23.5505,
+          "longitude": -46.6333,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-23.5505&longitude=-46.6333&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Rio de Janeiro",
+          "latitude": -22.9068,
+          "longitude": -43.1729,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-22.9068&longitude=-43.1729&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Brasilia",
+          "latitude": -15.7975,
+          "longitude": -47.8919,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-15.7975&longitude=-47.8919&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Salvador",
+          "latitude": -12.9777,
+          "longitude": -38.5016,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-12.9777&longitude=-38.5016&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Fortaleza",
+          "latitude": -3.7319,
+          "longitude": -38.5267,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-3.7319&longitude=-38.5267&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Manaus",
+          "latitude": -3.119,
+          "longitude": -60.0217,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-3.119&longitude=-60.0217&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Porto Alegre",
+          "latitude": -30.0346,
+          "longitude": -51.2177,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-30.0346&longitude=-51.2177&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "British Virgin Is.",
+      "ISO": "VGB",
+      "weatherLocations": [
+        {
+          "name": "British Virgin Is.",
+          "latitude": 18.7336,
+          "longitude": -64.3324,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=18.7336&longitude=-64.3324&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Brunei",
+      "ISO": "BRN",
+      "weatherLocations": [
+        {
+          "name": "Bandar Seri Begawan",
+          "latitude": 4.9031,
+          "longitude": 114.9398,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=4.9031&longitude=114.9398&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Bulgaria",
+      "ISO": "BGR",
+      "weatherLocations": [
+        {
+          "name": "Sofia",
+          "latitude": 42.6977,
+          "longitude": 23.3219,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=42.6977&longitude=23.3219&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Burkina Faso",
+      "ISO": "BFA",
+      "weatherLocations": [
+        {
+          "name": "Ouagadougou",
+          "latitude": 12.3714,
+          "longitude": -1.5197,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=12.3714&longitude=-1.5197&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Burundi",
+      "ISO": "BDI",
+      "weatherLocations": [
+        {
+          "name": "Bujumbura",
+          "latitude": -3.3614,
+          "longitude": 29.3599,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-3.3614&longitude=29.3599&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Cabo Verde",
+      "ISO": "CPV",
+      "weatherLocations": [
+        {
+          "name": "Praia",
+          "latitude": 14.933,
+          "longitude": -23.5133,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=14.933&longitude=-23.5133&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Cambodia",
+      "ISO": "KHM",
+      "weatherLocations": [
+        {
+          "name": "Phnom Penh",
+          "latitude": 11.5564,
+          "longitude": 104.9282,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=11.5564&longitude=104.9282&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Cameroon",
+      "ISO": "CMR",
+      "weatherLocations": [
+        {
+          "name": "Douala",
+          "latitude": 4.0511,
+          "longitude": 9.7679,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=4.0511&longitude=9.7679&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Canada",
+      "ISO": "CAN",
+      "weatherLocations": [
+        {
+          "name": "Toronto",
+          "latitude": 43.6532,
+          "longitude": -79.3832,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=43.6532&longitude=-79.3832&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Montreal",
+          "latitude": 45.5017,
+          "longitude": -73.5673,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=45.5017&longitude=-73.5673&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Vancouver",
+          "latitude": 49.2827,
+          "longitude": -123.1207,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=49.2827&longitude=-123.1207&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Calgary",
+          "latitude": 51.0447,
+          "longitude": -114.0719,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=51.0447&longitude=-114.0719&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Winnipeg",
+          "latitude": 49.8951,
+          "longitude": -97.1384,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=49.8951&longitude=-97.1384&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Yellowknife",
+          "latitude": 62.454,
+          "longitude": -114.3718,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=62.454&longitude=-114.3718&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Iqaluit",
+          "latitude": 63.7467,
+          "longitude": -68.517,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=63.7467&longitude=-68.517&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Cayman Is.",
+      "ISO": "CYM",
+      "weatherLocations": [
+        {
+          "name": "Cayman Is.",
+          "latitude": 19.3286,
+          "longitude": -81.3017,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=19.3286&longitude=-81.3017&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Central African Rep.",
+      "ISO": "CAF",
+      "weatherLocations": [
+        {
+          "name": "Bangui",
+          "latitude": 4.3947,
+          "longitude": 18.5582,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=4.3947&longitude=18.5582&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Chad",
+      "ISO": "TCD",
+      "weatherLocations": [
+        {
+          "name": "NDjamena",
+          "latitude": 12.1348,
+          "longitude": 15.0557,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=12.1348&longitude=15.0557&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Chile",
+      "ISO": "CHL",
+      "weatherLocations": [
+        {
+          "name": "Santiago",
+          "latitude": -33.4489,
+          "longitude": -70.6693,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-33.4489&longitude=-70.6693&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Antofagasta",
+          "latitude": -23.6509,
+          "longitude": -70.3975,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-23.6509&longitude=-70.3975&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Concepcion",
+          "latitude": -36.8201,
+          "longitude": -73.0444,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-36.8201&longitude=-73.0444&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Punta Arenas",
+          "latitude": -53.1638,
+          "longitude": -70.9171,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-53.1638&longitude=-70.9171&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "China",
+      "ISO": "CHN",
+      "weatherLocations": [
+        {
+          "name": "Beijing",
+          "latitude": 39.9042,
+          "longitude": 116.4074,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=39.9042&longitude=116.4074&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Shanghai",
+          "latitude": 31.2304,
+          "longitude": 121.4737,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=31.2304&longitude=121.4737&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Guangzhou",
+          "latitude": 23.1291,
+          "longitude": 113.2644,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=23.1291&longitude=113.2644&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Chengdu",
+          "latitude": 30.5728,
+          "longitude": 104.0668,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=30.5728&longitude=104.0668&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Wuhan",
+          "latitude": 30.5928,
+          "longitude": 114.3055,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=30.5928&longitude=114.3055&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Harbin",
+          "latitude": 45.8038,
+          "longitude": 126.535,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=45.8038&longitude=126.535&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Urumqi",
+          "latitude": 43.8256,
+          "longitude": 87.6168,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=43.8256&longitude=87.6168&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Lhasa",
+          "latitude": 29.65,
+          "longitude": 91.1,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=29.65&longitude=91.1&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Colombia",
+      "ISO": "COL",
+      "weatherLocations": [
+        {
+          "name": "Bogota",
+          "latitude": 4.711,
+          "longitude": -74.0721,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=4.711&longitude=-74.0721&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Medellin",
+          "latitude": 6.2442,
+          "longitude": -75.5812,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=6.2442&longitude=-75.5812&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Cali",
+          "latitude": 3.4516,
+          "longitude": -76.532,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=3.4516&longitude=-76.532&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Barranquilla",
+          "latitude": 10.9685,
+          "longitude": -74.7813,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=10.9685&longitude=-74.7813&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Comoros",
+      "ISO": "COM",
+      "weatherLocations": [
+        {
+          "name": "Comoros",
+          "latitude": -12.1864,
+          "longitude": 44.4178,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-12.1864&longitude=44.4178&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Congo",
+      "ISO": "COG",
+      "weatherLocations": [
+        {
+          "name": "Brazzaville",
+          "latitude": -4.2634,
+          "longitude": 15.2429,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-4.2634&longitude=15.2429&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Cook Is.",
+      "ISO": "COK",
+      "weatherLocations": [
+        {
+          "name": "Cook Is.",
+          "latitude": -21.2258,
+          "longitude": -159.7848,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-21.2258&longitude=-159.7848&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Costa Rica",
+      "ISO": "CRI",
+      "weatherLocations": [
+        {
+          "name": "San Jose",
+          "latitude": 9.9281,
+          "longitude": -84.0907,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=9.9281&longitude=-84.0907&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Côte d'Ivoire",
+      "ISO": "CIV",
+      "weatherLocations": [
+        {
+          "name": "Abidjan",
+          "latitude": 5.36,
+          "longitude": -4.0083,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=5.36&longitude=-4.0083&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Croatia",
+      "ISO": "HRV",
+      "weatherLocations": [
+        {
+          "name": "Zagreb",
+          "latitude": 45.815,
+          "longitude": 15.9819,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=45.815&longitude=15.9819&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Cuba",
+      "ISO": "CUB",
+      "weatherLocations": [
+        {
+          "name": "Havana",
+          "latitude": 23.1136,
+          "longitude": -82.3666,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=23.1136&longitude=-82.3666&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Curaçao",
+      "ISO": "CUW",
+      "weatherLocations": [
+        {
+          "name": "Curaçao",
+          "latitude": 12.2087,
+          "longitude": -68.9652,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=12.2087&longitude=-68.9652&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Cyprus",
+      "ISO": "CYP",
+      "weatherLocations": [
+        {
+          "name": "Nicosia",
+          "latitude": 35.1856,
+          "longitude": 33.3823,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=35.1856&longitude=33.3823&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Czechia",
+      "ISO": "CZE",
+      "weatherLocations": [
+        {
+          "name": "Prague",
+          "latitude": 50.0755,
+          "longitude": 14.4378,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=50.0755&longitude=14.4378&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Dem. Rep. Congo",
+      "ISO": "COD",
+      "weatherLocations": [
+        {
+          "name": "Kinshasa",
+          "latitude": -4.4419,
+          "longitude": 15.2663,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-4.4419&longitude=15.2663&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Lubumbashi",
+          "latitude": -11.6876,
+          "longitude": 27.5026,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-11.6876&longitude=27.5026&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Kisangani",
+          "latitude": 0.5153,
+          "longitude": 25.191,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=0.5153&longitude=25.191&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Denmark",
+      "ISO": "DNK",
+      "weatherLocations": [
+        {
+          "name": "Copenhagen",
+          "latitude": 55.6761,
+          "longitude": 12.5683,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=55.6761&longitude=12.5683&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Djibouti",
+      "ISO": "DJI",
+      "weatherLocations": [
+        {
+          "name": "Djibouti",
+          "latitude": 11.5721,
+          "longitude": 43.1456,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=11.5721&longitude=43.1456&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Dominica",
+      "ISO": "DMA",
+      "weatherLocations": [
+        {
+          "name": "Dominica",
+          "latitude": 15.4375,
+          "longitude": -61.3612,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=15.4375&longitude=-61.3612&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Dominican Rep.",
+      "ISO": "DOM",
+      "weatherLocations": [
+        {
+          "name": "Santo Domingo",
+          "latitude": 18.4861,
+          "longitude": -69.9312,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=18.4861&longitude=-69.9312&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Ecuador",
+      "ISO": "ECU",
+      "weatherLocations": [
+        {
+          "name": "Quito",
+          "latitude": -0.1807,
+          "longitude": -78.4678,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-0.1807&longitude=-78.4678&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Guayaquil",
+          "latitude": -2.171,
+          "longitude": -79.9224,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-2.171&longitude=-79.9224&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Egypt",
+      "ISO": "EGY",
+      "weatherLocations": [
+        {
+          "name": "Cairo",
+          "latitude": 30.0444,
+          "longitude": 31.2357,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=30.0444&longitude=31.2357&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Alexandria",
+          "latitude": 31.2001,
+          "longitude": 29.9187,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=31.2001&longitude=29.9187&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Aswan",
+          "latitude": 24.0889,
+          "longitude": 32.8998,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=24.0889&longitude=32.8998&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "El Salvador",
+      "ISO": "SLV",
+      "weatherLocations": [
+        {
+          "name": "San Salvador",
+          "latitude": 13.6929,
+          "longitude": -89.2182,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=13.6929&longitude=-89.2182&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Eq. Guinea",
+      "ISO": "GNQ",
+      "weatherLocations": [
+        {
+          "name": "Malabo",
+          "latitude": 3.7504,
+          "longitude": 8.7371,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=3.7504&longitude=8.7371&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Eritrea",
+      "ISO": "ERI",
+      "weatherLocations": [
+        {
+          "name": "Asmara",
+          "latitude": 15.3229,
+          "longitude": 38.9251,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=15.3229&longitude=38.9251&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Estonia",
+      "ISO": "EST",
+      "weatherLocations": [
+        {
+          "name": "Tallinn",
+          "latitude": 59.437,
+          "longitude": 24.7536,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=59.437&longitude=24.7536&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "eSwatini",
+      "ISO": "SWZ",
+      "weatherLocations": [
+        {
+          "name": "Mbabane",
+          "latitude": -26.3054,
+          "longitude": 31.1367,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-26.3054&longitude=31.1367&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Ethiopia",
+      "ISO": "ETH",
+      "weatherLocations": [
+        {
+          "name": "Addis Ababa",
+          "latitude": 9.032,
+          "longitude": 38.7469,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=9.032&longitude=38.7469&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Dire Dawa",
+          "latitude": 9.6009,
+          "longitude": 41.8501,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=9.6009&longitude=41.8501&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Bahir Dar",
+          "latitude": 11.5742,
+          "longitude": 37.3614,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=11.5742&longitude=37.3614&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Faeroe Is.",
+      "ISO": "FRO",
+      "weatherLocations": [
+        {
+          "name": "Faeroe Is.",
+          "latitude": 62.1209,
+          "longitude": -6.801,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=62.1209&longitude=-6.801&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Falkland Is.",
+      "ISO": "FLK",
+      "weatherLocations": [
+        {
+          "name": "Falkland Is.",
+          "latitude": -51.7033,
+          "longitude": -60.1534,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-51.7033&longitude=-60.1534&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Fiji",
+      "ISO": "FJI",
+      "weatherLocations": [
+        {
+          "name": "Suva",
+          "latitude": -18.1416,
+          "longitude": 178.4419,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-18.1416&longitude=178.4419&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Finland",
+      "ISO": "FIN",
+      "weatherLocations": [
+        {
+          "name": "Helsinki",
+          "latitude": 60.1699,
+          "longitude": 24.9384,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=60.1699&longitude=24.9384&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Tampere",
+          "latitude": 61.4978,
+          "longitude": 23.761,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=61.4978&longitude=23.761&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Rovaniemi",
+          "latitude": 66.5039,
+          "longitude": 25.7294,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=66.5039&longitude=25.7294&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Fr. Polynesia",
+      "ISO": "PYF",
+      "weatherLocations": [
+        {
+          "name": "Fr. Polynesia",
+          "latitude": -17.7868,
+          "longitude": -140.7785,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-17.7868&longitude=-140.7785&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Fr. S. Antarctic Lands",
+      "ISO": "ATF",
+      "weatherLocations": [
+        {
+          "name": "Fr. S. Antarctic Lands",
+          "latitude": -49.284,
+          "longitude": 69.5633,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-49.284&longitude=69.5633&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "France",
+      "ISO": "FRA",
+      "weatherLocations": [
+        {
+          "name": "Paris",
+          "latitude": 48.8566,
+          "longitude": 2.3522,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=48.8566&longitude=2.3522&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Marseille",
+          "latitude": 43.2965,
+          "longitude": 5.3698,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=43.2965&longitude=5.3698&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Lyon",
+          "latitude": 45.764,
+          "longitude": 4.8357,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=45.764&longitude=4.8357&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Toulouse",
+          "latitude": 43.6047,
+          "longitude": 1.4442,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=43.6047&longitude=1.4442&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Bordeaux",
+          "latitude": 44.8378,
+          "longitude": -0.5792,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=44.8378&longitude=-0.5792&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Gabon",
+      "ISO": "GAB",
+      "weatherLocations": [
+        {
+          "name": "Libreville",
+          "latitude": 0.4162,
+          "longitude": 9.4673,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=0.4162&longitude=9.4673&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Gambia",
+      "ISO": "GMB",
+      "weatherLocations": [
+        {
+          "name": "Banjul",
+          "latitude": 13.4549,
+          "longitude": -16.579,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=13.4549&longitude=-16.579&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Georgia",
+      "ISO": "GEO",
+      "weatherLocations": [
+        {
+          "name": "Tbilisi",
+          "latitude": 41.7151,
+          "longitude": 44.8271,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=41.7151&longitude=44.8271&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Germany",
+      "ISO": "DEU",
+      "weatherLocations": [
+        {
+          "name": "Berlin",
+          "latitude": 52.52,
+          "longitude": 13.405,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=52.52&longitude=13.405&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Hamburg",
+          "latitude": 53.5511,
+          "longitude": 9.9937,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=53.5511&longitude=9.9937&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Munich",
+          "latitude": 48.1351,
+          "longitude": 11.582,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=48.1351&longitude=11.582&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Frankfurt",
+          "latitude": 50.1109,
+          "longitude": 8.6821,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=50.1109&longitude=8.6821&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Cologne",
+          "latitude": 50.9375,
+          "longitude": 6.9603,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=50.9375&longitude=6.9603&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Ghana",
+      "ISO": "GHA",
+      "weatherLocations": [
+        {
+          "name": "Accra",
+          "latitude": 5.6037,
+          "longitude": -0.187,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=5.6037&longitude=-0.187&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Greece",
+      "ISO": "GRC",
+      "weatherLocations": [
+        {
+          "name": "Athens",
+          "latitude": 37.9838,
+          "longitude": 23.7275,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=37.9838&longitude=23.7275&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Thessaloniki",
+          "latitude": 40.6401,
+          "longitude": 22.9444,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=40.6401&longitude=22.9444&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Greenland",
+      "ISO": "GRL",
+      "weatherLocations": [
+        {
+          "name": "Nuuk",
+          "latitude": 64.1835,
+          "longitude": -51.7216,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=64.1835&longitude=-51.7216&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Ilulissat",
+          "latitude": 69.2198,
+          "longitude": -51.0986,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=69.2198&longitude=-51.0986&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Grenada",
+      "ISO": "GRD",
+      "weatherLocations": [
+        {
+          "name": "Grenada",
+          "latitude": 12.0986,
+          "longitude": -61.7032,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=12.0986&longitude=-61.7032&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Guam",
+      "ISO": "GUM",
+      "weatherLocations": [
+        {
+          "name": "Guam",
+          "latitude": 13.4295,
+          "longitude": 144.773,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=13.4295&longitude=144.773&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Guatemala",
+      "ISO": "GTM",
+      "weatherLocations": [
+        {
+          "name": "Guatemala City",
+          "latitude": 14.6349,
+          "longitude": -90.5069,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=14.6349&longitude=-90.5069&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Guernsey",
+      "ISO": "GGY",
+      "weatherLocations": [
+        {
+          "name": "Guernsey",
+          "latitude": 49.4782,
+          "longitude": -2.5604,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=49.4782&longitude=-2.5604&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Guinea",
+      "ISO": "GIN",
+      "weatherLocations": [
+        {
+          "name": "Conakry",
+          "latitude": 9.6412,
+          "longitude": -13.5784,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=9.6412&longitude=-13.5784&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Guinea-Bissau",
+      "ISO": "GNB",
+      "weatherLocations": [
+        {
+          "name": "Bissau",
+          "latitude": 11.8817,
+          "longitude": -15.6178,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=11.8817&longitude=-15.6178&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Guyana",
+      "ISO": "GUY",
+      "weatherLocations": [
+        {
+          "name": "Georgetown",
+          "latitude": 6.8013,
+          "longitude": -58.1551,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=6.8013&longitude=-58.1551&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Haiti",
+      "ISO": "HTI",
+      "weatherLocations": [
+        {
+          "name": "Port-au-Prince",
+          "latitude": 18.5944,
+          "longitude": -72.3074,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=18.5944&longitude=-72.3074&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Heard I. and McDonald Is.",
+      "ISO": "HMD",
+      "weatherLocations": [
+        {
+          "name": "Heard I. and McDonald Is.",
+          "latitude": -53.0755,
+          "longitude": 73.5102,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-53.0755&longitude=73.5102&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Honduras",
+      "ISO": "HND",
+      "weatherLocations": [
+        {
+          "name": "Tegucigalpa",
+          "latitude": 14.0723,
+          "longitude": -87.1921,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=14.0723&longitude=-87.1921&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Hong Kong",
+      "ISO": "HKG",
+      "weatherLocations": [
+        {
+          "name": "Hong Kong",
+          "latitude": 22.3193,
+          "longitude": 114.1694,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=22.3193&longitude=114.1694&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Hungary",
+      "ISO": "HUN",
+      "weatherLocations": [
+        {
+          "name": "Budapest",
+          "latitude": 47.4979,
+          "longitude": 19.0402,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=47.4979&longitude=19.0402&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Iceland",
+      "ISO": "ISL",
+      "weatherLocations": [
+        {
+          "name": "Reykjavik",
+          "latitude": 64.1466,
+          "longitude": -21.9426,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=64.1466&longitude=-21.9426&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Akureyri",
+          "latitude": 65.6885,
+          "longitude": -18.1262,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=65.6885&longitude=-18.1262&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "ISO": "IND",
+      "weatherLocations": [
+        {
+          "name": "New Delhi",
+          "latitude": 28.6139,
+          "longitude": 77.209,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=28.6139&longitude=77.209&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Mumbai",
+          "latitude": 19.076,
+          "longitude": 72.8777,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=19.076&longitude=72.8777&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Bengaluru",
+          "latitude": 12.9716,
+          "longitude": 77.5946,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=12.9716&longitude=77.5946&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Kolkata",
+          "latitude": 22.5726,
+          "longitude": 88.3639,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=22.5726&longitude=88.3639&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Chennai",
+          "latitude": 13.0827,
+          "longitude": 80.2707,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=13.0827&longitude=80.2707&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Hyderabad",
+          "latitude": 17.385,
+          "longitude": 78.4867,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=17.385&longitude=78.4867&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Leh",
+          "latitude": 34.1526,
+          "longitude": 77.5771,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=34.1526&longitude=77.5771&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Indonesia",
+      "ISO": "IDN",
+      "weatherLocations": [
+        {
+          "name": "Jakarta",
+          "latitude": -6.2088,
+          "longitude": 106.8456,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-6.2088&longitude=106.8456&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Surabaya",
+          "latitude": -7.2575,
+          "longitude": 112.7521,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-7.2575&longitude=112.7521&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Medan",
+          "latitude": 3.5952,
+          "longitude": 98.6722,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=3.5952&longitude=98.6722&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Makassar",
+          "latitude": -5.1477,
+          "longitude": 119.4327,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-5.1477&longitude=119.4327&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Jayapura",
+          "latitude": -2.5916,
+          "longitude": 140.669,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-2.5916&longitude=140.669&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Iran",
+      "ISO": "IRN",
+      "weatherLocations": [
+        {
+          "name": "Tehran",
+          "latitude": 35.6892,
+          "longitude": 51.389,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=35.6892&longitude=51.389&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Mashhad",
+          "latitude": 36.2605,
+          "longitude": 59.6168,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=36.2605&longitude=59.6168&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Isfahan",
+          "latitude": 32.6539,
+          "longitude": 51.666,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=32.6539&longitude=51.666&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Shiraz",
+          "latitude": 29.5926,
+          "longitude": 52.5836,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=29.5926&longitude=52.5836&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Iraq",
+      "ISO": "IRQ",
+      "weatherLocations": [
+        {
+          "name": "Baghdad",
+          "latitude": 33.3152,
+          "longitude": 44.3661,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=33.3152&longitude=44.3661&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Ireland",
+      "ISO": "IRL",
+      "weatherLocations": [
+        {
+          "name": "Dublin",
+          "latitude": 53.3498,
+          "longitude": -6.2603,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=53.3498&longitude=-6.2603&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Isle of Man",
+      "ISO": "IMN",
+      "weatherLocations": [
+        {
+          "name": "Isle of Man",
+          "latitude": 54.2225,
+          "longitude": -4.5453,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=54.2225&longitude=-4.5453&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Israel",
+      "ISO": "ISR",
+      "weatherLocations": [
+        {
+          "name": "Tel Aviv",
+          "latitude": 32.0853,
+          "longitude": 34.7818,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=32.0853&longitude=34.7818&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Italy",
+      "ISO": "ITA",
+      "weatherLocations": [
+        {
+          "name": "Rome",
+          "latitude": 41.9028,
+          "longitude": 12.4964,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=41.9028&longitude=12.4964&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Milan",
+          "latitude": 45.4642,
+          "longitude": 9.19,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=45.4642&longitude=9.19&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Naples",
+          "latitude": 40.8518,
+          "longitude": 14.2681,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=40.8518&longitude=14.2681&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Turin",
+          "latitude": 45.0703,
+          "longitude": 7.6869,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=45.0703&longitude=7.6869&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Palermo",
+          "latitude": 38.1157,
+          "longitude": 13.3615,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=38.1157&longitude=13.3615&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Jamaica",
+      "ISO": "JAM",
+      "weatherLocations": [
+        {
+          "name": "Kingston",
+          "latitude": 17.9712,
+          "longitude": -76.7936,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=17.9712&longitude=-76.7936&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Japan",
+      "ISO": "JPN",
+      "weatherLocations": [
+        {
+          "name": "Tokyo",
+          "latitude": 35.6762,
+          "longitude": 139.6503,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=35.6762&longitude=139.6503&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Osaka",
+          "latitude": 34.6937,
+          "longitude": 135.5023,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=34.6937&longitude=135.5023&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Sapporo",
+          "latitude": 43.0618,
+          "longitude": 141.3545,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=43.0618&longitude=141.3545&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Fukuoka",
+          "latitude": 33.5902,
+          "longitude": 130.4017,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=33.5902&longitude=130.4017&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Naha",
+          "latitude": 26.2124,
+          "longitude": 127.6809,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=26.2124&longitude=127.6809&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Jersey",
+      "ISO": "JEY",
+      "weatherLocations": [
+        {
+          "name": "Jersey",
+          "latitude": 49.2096,
+          "longitude": -2.0994,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=49.2096&longitude=-2.0994&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Jordan",
+      "ISO": "JOR",
+      "weatherLocations": [
+        {
+          "name": "Amman",
+          "latitude": 31.9454,
+          "longitude": 35.9284,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=31.9454&longitude=35.9284&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Kazakhstan",
+      "ISO": "KAZ",
+      "weatherLocations": [
+        {
+          "name": "Almaty",
+          "latitude": 43.222,
+          "longitude": 76.8512,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=43.222&longitude=76.8512&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Astana",
+          "latitude": 51.1694,
+          "longitude": 71.4491,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=51.1694&longitude=71.4491&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Shymkent",
+          "latitude": 42.3417,
+          "longitude": 69.5901,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=42.3417&longitude=69.5901&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Atyrau",
+          "latitude": 47.1164,
+          "longitude": 51.92,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=47.1164&longitude=51.92&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Kenya",
+      "ISO": "KEN",
+      "weatherLocations": [
+        {
+          "name": "Nairobi",
+          "latitude": -1.2921,
+          "longitude": 36.8219,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-1.2921&longitude=36.8219&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Mombasa",
+          "latitude": -4.0435,
+          "longitude": 39.6682,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-4.0435&longitude=39.6682&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Kisumu",
+          "latitude": -0.0917,
+          "longitude": 34.768,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-0.0917&longitude=34.768&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Kiribati",
+      "ISO": "KIR",
+      "weatherLocations": [
+        {
+          "name": "Kiribati",
+          "latitude": -2.8062,
+          "longitude": -171.6794,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-2.8062&longitude=-171.6794&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Kosovo",
+      "ISO": "XKX",
+      "weatherLocations": [
+        {
+          "name": "Kosovo",
+          "latitude": 42.5983,
+          "longitude": 20.83,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=42.5983&longitude=20.83&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Kuwait",
+      "ISO": "KWT",
+      "weatherLocations": [
+        {
+          "name": "Kuwait City",
+          "latitude": 29.3759,
+          "longitude": 47.9774,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=29.3759&longitude=47.9774&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Kyrgyzstan",
+      "ISO": "KGZ",
+      "weatherLocations": [
+        {
+          "name": "Bishkek",
+          "latitude": 42.8746,
+          "longitude": 74.5698,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=42.8746&longitude=74.5698&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Laos",
+      "ISO": "LAO",
+      "weatherLocations": [
+        {
+          "name": "Vientiane",
+          "latitude": 17.9757,
+          "longitude": 102.6331,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=17.9757&longitude=102.6331&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Latvia",
+      "ISO": "LVA",
+      "weatherLocations": [
+        {
+          "name": "Riga",
+          "latitude": 56.9496,
+          "longitude": 24.1052,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=56.9496&longitude=24.1052&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Lebanon",
+      "ISO": "LBN",
+      "weatherLocations": [
+        {
+          "name": "Beirut",
+          "latitude": 33.8938,
+          "longitude": 35.5018,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=33.8938&longitude=35.5018&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Lesotho",
+      "ISO": "LSO",
+      "weatherLocations": [
+        {
+          "name": "Maseru",
+          "latitude": -29.3151,
+          "longitude": 27.4869,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-29.3151&longitude=27.4869&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Liberia",
+      "ISO": "LBR",
+      "weatherLocations": [
+        {
+          "name": "Monrovia",
+          "latitude": 6.3156,
+          "longitude": -10.8074,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=6.3156&longitude=-10.8074&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Libya",
+      "ISO": "LBY",
+      "weatherLocations": [
+        {
+          "name": "Tripoli",
+          "latitude": 32.8872,
+          "longitude": 13.1913,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=32.8872&longitude=13.1913&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Benghazi",
+          "latitude": 32.1194,
+          "longitude": 20.0868,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=32.1194&longitude=20.0868&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Sabha",
+          "latitude": 27.0377,
+          "longitude": 14.4283,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=27.0377&longitude=14.4283&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Liechtenstein",
+      "ISO": "LIE",
+      "weatherLocations": [
+        {
+          "name": "Liechtenstein",
+          "latitude": 47.1424,
+          "longitude": 9.5474,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=47.1424&longitude=9.5474&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Lithuania",
+      "ISO": "LTU",
+      "weatherLocations": [
+        {
+          "name": "Vilnius",
+          "latitude": 54.6872,
+          "longitude": 25.2797,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=54.6872&longitude=25.2797&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Luxembourg",
+      "ISO": "LUX",
+      "weatherLocations": [
+        {
+          "name": "Luxembourg",
+          "latitude": 49.6116,
+          "longitude": 6.1319,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=49.6116&longitude=6.1319&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Macao",
+      "ISO": "MAC",
+      "weatherLocations": [
+        {
+          "name": "Macao",
+          "latitude": 22.2157,
+          "longitude": 113.5041,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=22.2157&longitude=113.5041&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Macedonia",
+      "ISO": "MKD",
+      "weatherLocations": [
+        {
+          "name": "Skopje",
+          "latitude": 41.9973,
+          "longitude": 21.428,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=41.9973&longitude=21.428&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Madagascar",
+      "ISO": "MDG",
+      "weatherLocations": [
+        {
+          "name": "Antananarivo",
+          "latitude": -18.8792,
+          "longitude": 47.5079,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-18.8792&longitude=47.5079&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Toamasina",
+          "latitude": -18.1492,
+          "longitude": 49.4023,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-18.1492&longitude=49.4023&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Malawi",
+      "ISO": "MWI",
+      "weatherLocations": [
+        {
+          "name": "Lilongwe",
+          "latitude": -13.9626,
+          "longitude": 33.7741,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-13.9626&longitude=33.7741&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Malaysia",
+      "ISO": "MYS",
+      "weatherLocations": [
+        {
+          "name": "Kuala Lumpur",
+          "latitude": 3.139,
+          "longitude": 101.6869,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=3.139&longitude=101.6869&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Kuching",
+          "latitude": 1.5533,
+          "longitude": 110.3592,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=1.5533&longitude=110.3592&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Maldives",
+      "ISO": "MDV",
+      "weatherLocations": [
+        {
+          "name": "Male",
+          "latitude": 4.1755,
+          "longitude": 73.5093,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=4.1755&longitude=73.5093&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Mali",
+      "ISO": "MLI",
+      "weatherLocations": [
+        {
+          "name": "Bamako",
+          "latitude": 12.6392,
+          "longitude": -8.0029,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=12.6392&longitude=-8.0029&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Malta",
+      "ISO": "MLT",
+      "weatherLocations": [
+        {
+          "name": "Valletta",
+          "latitude": 35.8989,
+          "longitude": 14.5146,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=35.8989&longitude=14.5146&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Marshall Is.",
+      "ISO": "MHL",
+      "weatherLocations": [
+        {
+          "name": "Marshall Is.",
+          "latitude": 7.1084,
+          "longitude": 171.1979,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=7.1084&longitude=171.1979&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Mauritania",
+      "ISO": "MRT",
+      "weatherLocations": [
+        {
+          "name": "Nouakchott",
+          "latitude": 18.0735,
+          "longitude": -15.9582,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=18.0735&longitude=-15.9582&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Mauritius",
+      "ISO": "MUS",
+      "weatherLocations": [
+        {
+          "name": "Port Louis",
+          "latitude": -20.1609,
+          "longitude": 57.5012,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-20.1609&longitude=57.5012&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Mexico",
+      "ISO": "MEX",
+      "weatherLocations": [
+        {
+          "name": "Mexico City",
+          "latitude": 19.4326,
+          "longitude": -99.1332,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=19.4326&longitude=-99.1332&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Guadalajara",
+          "latitude": 20.6597,
+          "longitude": -103.3496,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=20.6597&longitude=-103.3496&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Monterrey",
+          "latitude": 25.6866,
+          "longitude": -100.3161,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=25.6866&longitude=-100.3161&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Tijuana",
+          "latitude": 32.5149,
+          "longitude": -117.0382,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=32.5149&longitude=-117.0382&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Cancun",
+          "latitude": 21.1619,
+          "longitude": -86.8515,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=21.1619&longitude=-86.8515&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Micronesia",
+      "ISO": "FSM",
+      "weatherLocations": [
+        {
+          "name": "Micronesia",
+          "latitude": 7.361,
+          "longitude": 151.614,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=7.361&longitude=151.614&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Moldova",
+      "ISO": "MDA",
+      "weatherLocations": [
+        {
+          "name": "Chisinau",
+          "latitude": 47.0105,
+          "longitude": 28.8638,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=47.0105&longitude=28.8638&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Monaco",
+      "ISO": "MCO",
+      "weatherLocations": [
+        {
+          "name": "Monaco",
+          "latitude": 43.7546,
+          "longitude": 7.4122,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=43.7546&longitude=7.4122&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Mongolia",
+      "ISO": "MNG",
+      "weatherLocations": [
+        {
+          "name": "Ulaanbaatar",
+          "latitude": 47.8864,
+          "longitude": 106.9057,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=47.8864&longitude=106.9057&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Erdenet",
+          "latitude": 49.0333,
+          "longitude": 104.0833,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=49.0333&longitude=104.0833&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Dalanzadgad",
+          "latitude": 43.5708,
+          "longitude": 104.425,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=43.5708&longitude=104.425&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Montenegro",
+      "ISO": "MNE",
+      "weatherLocations": [
+        {
+          "name": "Podgorica",
+          "latitude": 42.4304,
+          "longitude": 19.2594,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=42.4304&longitude=19.2594&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Montserrat",
+      "ISO": "MSR",
+      "weatherLocations": [
+        {
+          "name": "Montserrat",
+          "latitude": 16.7471,
+          "longitude": -62.1806,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=16.7471&longitude=-62.1806&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Morocco",
+      "ISO": "MAR",
+      "weatherLocations": [
+        {
+          "name": "Casablanca",
+          "latitude": 33.5731,
+          "longitude": -7.5898,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=33.5731&longitude=-7.5898&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Rabat",
+          "latitude": 34.0209,
+          "longitude": -6.8416,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=34.0209&longitude=-6.8416&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Marrakesh",
+          "latitude": 31.6295,
+          "longitude": -7.9811,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=31.6295&longitude=-7.9811&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Mozambique",
+      "ISO": "MOZ",
+      "weatherLocations": [
+        {
+          "name": "Maputo",
+          "latitude": -25.9692,
+          "longitude": 32.5732,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-25.9692&longitude=32.5732&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Nampula",
+          "latitude": -15.1165,
+          "longitude": 39.2666,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-15.1165&longitude=39.2666&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Myanmar",
+      "ISO": "MMR",
+      "weatherLocations": [
+        {
+          "name": "Yangon",
+          "latitude": 16.8409,
+          "longitude": 96.1735,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=16.8409&longitude=96.1735&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "N. Cyprus",
+      "ISO": "CYN",
+      "weatherLocations": [
+        {
+          "name": "N. Cyprus",
+          "latitude": 35.2025,
+          "longitude": 33.5334,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=35.2025&longitude=33.5334&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "N. Mariana Is.",
+      "ISO": "MNP",
+      "weatherLocations": [
+        {
+          "name": "N. Mariana Is.",
+          "latitude": 15.1747,
+          "longitude": 145.7529,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=15.1747&longitude=145.7529&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Namibia",
+      "ISO": "NAM",
+      "weatherLocations": [
+        {
+          "name": "Windhoek",
+          "latitude": -22.5609,
+          "longitude": 17.0658,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-22.5609&longitude=17.0658&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Walvis Bay",
+          "latitude": -22.9576,
+          "longitude": 14.5053,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-22.9576&longitude=14.5053&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Nauru",
+      "ISO": "NRU",
+      "weatherLocations": [
+        {
+          "name": "Nauru",
+          "latitude": -0.5176,
+          "longitude": 166.9359,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-0.5176&longitude=166.9359&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Nepal",
+      "ISO": "NPL",
+      "weatherLocations": [
+        {
+          "name": "Kathmandu",
+          "latitude": 27.7172,
+          "longitude": 85.324,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=27.7172&longitude=85.324&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Netherlands",
+      "ISO": "NLD",
+      "weatherLocations": [
+        {
+          "name": "Amsterdam",
+          "latitude": 52.3676,
+          "longitude": 4.9041,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=52.3676&longitude=4.9041&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "New Caledonia",
+      "ISO": "NCL",
+      "weatherLocations": [
+        {
+          "name": "Noumea",
+          "latitude": -22.2758,
+          "longitude": 166.458,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-22.2758&longitude=166.458&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "New Zealand",
+      "ISO": "NZL",
+      "weatherLocations": [
+        {
+          "name": "Auckland",
+          "latitude": -36.8485,
+          "longitude": 174.7633,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-36.8485&longitude=174.7633&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Wellington",
+          "latitude": -41.2865,
+          "longitude": 174.7762,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-41.2865&longitude=174.7762&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Christchurch",
+          "latitude": -43.5321,
+          "longitude": 172.6362,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-43.5321&longitude=172.6362&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Nicaragua",
+      "ISO": "NIC",
+      "weatherLocations": [
+        {
+          "name": "Managua",
+          "latitude": 12.115,
+          "longitude": -86.2362,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=12.115&longitude=-86.2362&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Niger",
+      "ISO": "NER",
+      "weatherLocations": [
+        {
+          "name": "Niamey",
+          "latitude": 13.5116,
+          "longitude": 2.1254,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=13.5116&longitude=2.1254&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Nigeria",
+      "ISO": "NGA",
+      "weatherLocations": [
+        {
+          "name": "Lagos",
+          "latitude": 6.5244,
+          "longitude": 3.3792,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=6.5244&longitude=3.3792&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Abuja",
+          "latitude": 9.0765,
+          "longitude": 7.3986,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=9.0765&longitude=7.3986&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Kano",
+          "latitude": 12.0022,
+          "longitude": 8.592,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=12.0022&longitude=8.592&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Port Harcourt",
+          "latitude": 4.8156,
+          "longitude": 7.0498,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=4.8156&longitude=7.0498&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Niue",
+      "ISO": "NIU",
+      "weatherLocations": [
+        {
+          "name": "Niue",
+          "latitude": -19.0429,
+          "longitude": -169.8578,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-19.0429&longitude=-169.8578&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Norfolk Island",
+      "ISO": "NFK",
+      "weatherLocations": [
+        {
+          "name": "Norfolk Island",
+          "latitude": -29.0569,
+          "longitude": 167.9436,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-29.0569&longitude=167.9436&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "North Korea",
+      "ISO": "PRK",
+      "weatherLocations": [
+        {
+          "name": "Pyongyang",
+          "latitude": 39.0392,
+          "longitude": 125.7625,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=39.0392&longitude=125.7625&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Norway",
+      "ISO": "NOR",
+      "weatherLocations": [
+        {
+          "name": "Oslo",
+          "latitude": 59.9139,
+          "longitude": 10.7522,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=59.9139&longitude=10.7522&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Bergen",
+          "latitude": 60.3913,
+          "longitude": 5.3221,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=60.3913&longitude=5.3221&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Trondheim",
+          "latitude": 63.4305,
+          "longitude": 10.3951,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=63.4305&longitude=10.3951&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Tromso",
+          "latitude": 69.6492,
+          "longitude": 18.9553,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=69.6492&longitude=18.9553&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Oman",
+      "ISO": "OMN",
+      "weatherLocations": [
+        {
+          "name": "Muscat",
+          "latitude": 23.588,
+          "longitude": 58.3829,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=23.588&longitude=58.3829&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Pakistan",
+      "ISO": "PAK",
+      "weatherLocations": [
+        {
+          "name": "Karachi",
+          "latitude": 24.8607,
+          "longitude": 67.0011,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=24.8607&longitude=67.0011&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Lahore",
+          "latitude": 31.5204,
+          "longitude": 74.3587,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=31.5204&longitude=74.3587&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Islamabad",
+          "latitude": 33.6844,
+          "longitude": 73.0479,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=33.6844&longitude=73.0479&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Quetta",
+          "latitude": 30.1798,
+          "longitude": 66.975,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=30.1798&longitude=66.975&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Palau",
+      "ISO": "PLW",
+      "weatherLocations": [
+        {
+          "name": "Palau",
+          "latitude": 7.5198,
+          "longitude": 134.5882,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=7.5198&longitude=134.5882&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Palestine",
+      "ISO": "PSE",
+      "weatherLocations": [
+        {
+          "name": "Ramallah",
+          "latitude": 31.9038,
+          "longitude": 35.2034,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=31.9038&longitude=35.2034&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Panama",
+      "ISO": "PAN",
+      "weatherLocations": [
+        {
+          "name": "Panama City",
+          "latitude": 8.9824,
+          "longitude": -79.5199,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=8.9824&longitude=-79.5199&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Papua New Guinea",
+      "ISO": "PNG",
+      "weatherLocations": [
+        {
+          "name": "Port Moresby",
+          "latitude": -9.4438,
+          "longitude": 147.1803,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-9.4438&longitude=147.1803&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Paraguay",
+      "ISO": "PRY",
+      "weatherLocations": [
+        {
+          "name": "Asuncion",
+          "latitude": -25.2637,
+          "longitude": -57.5759,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-25.2637&longitude=-57.5759&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Peru",
+      "ISO": "PER",
+      "weatherLocations": [
+        {
+          "name": "Lima",
+          "latitude": -12.0464,
+          "longitude": -77.0428,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-12.0464&longitude=-77.0428&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Arequipa",
+          "latitude": -16.409,
+          "longitude": -71.5375,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-16.409&longitude=-71.5375&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Cusco",
+          "latitude": -13.5319,
+          "longitude": -71.9675,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-13.5319&longitude=-71.9675&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Iquitos",
+          "latitude": -3.7437,
+          "longitude": -73.2516,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-3.7437&longitude=-73.2516&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Philippines",
+      "ISO": "PHL",
+      "weatherLocations": [
+        {
+          "name": "Manila",
+          "latitude": 14.5995,
+          "longitude": 120.9842,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=14.5995&longitude=120.9842&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Cebu",
+          "latitude": 10.3157,
+          "longitude": 123.8854,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=10.3157&longitude=123.8854&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Davao",
+          "latitude": 7.1907,
+          "longitude": 125.4553,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=7.1907&longitude=125.4553&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Pitcairn Is.",
+      "ISO": "PCN",
+      "weatherLocations": [
+        {
+          "name": "Pitcairn Is.",
+          "latitude": -24.3707,
+          "longitude": -128.3127,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-24.3707&longitude=-128.3127&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Poland",
+      "ISO": "POL",
+      "weatherLocations": [
+        {
+          "name": "Warsaw",
+          "latitude": 52.2297,
+          "longitude": 21.0122,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=52.2297&longitude=21.0122&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Krakow",
+          "latitude": 50.0647,
+          "longitude": 19.945,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=50.0647&longitude=19.945&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Gdansk",
+          "latitude": 54.352,
+          "longitude": 18.6466,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=54.352&longitude=18.6466&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Portugal",
+      "ISO": "PRT",
+      "weatherLocations": [
+        {
+          "name": "Lisbon",
+          "latitude": 38.7223,
+          "longitude": -9.1393,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=38.7223&longitude=-9.1393&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Porto",
+          "latitude": 41.1579,
+          "longitude": -8.6291,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=41.1579&longitude=-8.6291&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Puerto Rico",
+      "ISO": "PRI",
+      "weatherLocations": [
+        {
+          "name": "San Juan",
+          "latitude": 18.4655,
+          "longitude": -66.1057,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=18.4655&longitude=-66.1057&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Qatar",
+      "ISO": "QAT",
+      "weatherLocations": [
+        {
+          "name": "Doha",
+          "latitude": 25.2854,
+          "longitude": 51.531,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=25.2854&longitude=51.531&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Romania",
+      "ISO": "ROU",
+      "weatherLocations": [
+        {
+          "name": "Bucharest",
+          "latitude": 44.4268,
+          "longitude": 26.1025,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=44.4268&longitude=26.1025&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Cluj-Napoca",
+          "latitude": 46.7712,
+          "longitude": 23.6236,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=46.7712&longitude=23.6236&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Russia",
+      "ISO": "RUS",
+      "weatherLocations": [
+        {
+          "name": "Moscow",
+          "latitude": 55.7558,
+          "longitude": 37.6173,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=55.7558&longitude=37.6173&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Saint Petersburg",
+          "latitude": 59.9343,
+          "longitude": 30.3351,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=59.9343&longitude=30.3351&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Novosibirsk",
+          "latitude": 55.0084,
+          "longitude": 82.9357,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=55.0084&longitude=82.9357&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Yekaterinburg",
+          "latitude": 56.8389,
+          "longitude": 60.6057,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=56.8389&longitude=60.6057&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Yakutsk",
+          "latitude": 62.0355,
+          "longitude": 129.6755,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=62.0355&longitude=129.6755&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Vladivostok",
+          "latitude": 43.1155,
+          "longitude": 131.8855,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=43.1155&longitude=131.8855&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Sochi",
+          "latitude": 43.6028,
+          "longitude": 39.7342,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=43.6028&longitude=39.7342&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Rwanda",
+      "ISO": "RWA",
+      "weatherLocations": [
+        {
+          "name": "Kigali",
+          "latitude": -1.9441,
+          "longitude": 30.0619,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-1.9441&longitude=30.0619&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "S. Geo. and the Is.",
+      "ISO": "SGS",
+      "weatherLocations": [
+        {
+          "name": "S. Geo. and the Is.",
+          "latitude": -54.3366,
+          "longitude": -36.7224,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-54.3366&longitude=-36.7224&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "S. Sudan",
+      "ISO": "SSD",
+      "weatherLocations": [
+        {
+          "name": "Juba",
+          "latitude": 4.8594,
+          "longitude": 31.5713,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=4.8594&longitude=31.5713&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Saint Helena",
+      "ISO": "SHN",
+      "weatherLocations": [
+        {
+          "name": "Saint Helena",
+          "latitude": -7.9375,
+          "longitude": -14.3676,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-7.9375&longitude=-14.3676&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Saint Lucia",
+      "ISO": "LCA",
+      "weatherLocations": [
+        {
+          "name": "Saint Lucia",
+          "latitude": 13.9116,
+          "longitude": -60.9673,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=13.9116&longitude=-60.9673&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Samoa",
+      "ISO": "WSM",
+      "weatherLocations": [
+        {
+          "name": "Apia",
+          "latitude": -13.8507,
+          "longitude": -171.7514,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-13.8507&longitude=-171.7514&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "San Marino",
+      "ISO": "SMR",
+      "weatherLocations": [
+        {
+          "name": "San Marino",
+          "latitude": 43.9364,
+          "longitude": 12.4651,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=43.9364&longitude=12.4651&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "São Tomé and Principe",
+      "ISO": "STP",
+      "weatherLocations": [
+        {
+          "name": "São Tomé and Principe",
+          "latitude": 0.2246,
+          "longitude": 6.5977,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=0.2246&longitude=6.5977&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Saudi Arabia",
+      "ISO": "SAU",
+      "weatherLocations": [
+        {
+          "name": "Riyadh",
+          "latitude": 24.7136,
+          "longitude": 46.6753,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=24.7136&longitude=46.6753&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Jeddah",
+          "latitude": 21.4858,
+          "longitude": 39.1925,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=21.4858&longitude=39.1925&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Dammam",
+          "latitude": 26.4207,
+          "longitude": 50.0888,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=26.4207&longitude=50.0888&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Tabuk",
+          "latitude": 28.3835,
+          "longitude": 36.5662,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=28.3835&longitude=36.5662&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Senegal",
+      "ISO": "SEN",
+      "weatherLocations": [
+        {
+          "name": "Dakar",
+          "latitude": 14.7167,
+          "longitude": -17.4677,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=14.7167&longitude=-17.4677&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Serbia",
+      "ISO": "SRB",
+      "weatherLocations": [
+        {
+          "name": "Belgrade",
+          "latitude": 44.7866,
+          "longitude": 20.4489,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=44.7866&longitude=20.4489&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Seychelles",
+      "ISO": "SYC",
+      "weatherLocations": [
+        {
+          "name": "Victoria",
+          "latitude": -4.6191,
+          "longitude": 55.4513,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-4.6191&longitude=55.4513&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Sierra Leone",
+      "ISO": "SLE",
+      "weatherLocations": [
+        {
+          "name": "Freetown",
+          "latitude": 8.4657,
+          "longitude": -13.2317,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=8.4657&longitude=-13.2317&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Singapore",
+      "ISO": "SGP",
+      "weatherLocations": [
+        {
+          "name": "Singapore",
+          "latitude": 1.3521,
+          "longitude": 103.8198,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=1.3521&longitude=103.8198&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Sint Maarten",
+      "ISO": "SXM",
+      "weatherLocations": [
+        {
+          "name": "Sint Maarten",
+          "latitude": 18.0536,
+          "longitude": -63.0729,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=18.0536&longitude=-63.0729&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Slovakia",
+      "ISO": "SVK",
+      "weatherLocations": [
+        {
+          "name": "Bratislava",
+          "latitude": 48.1486,
+          "longitude": 17.1077,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=48.1486&longitude=17.1077&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Slovenia",
+      "ISO": "SVN",
+      "weatherLocations": [
+        {
+          "name": "Ljubljana",
+          "latitude": 46.0569,
+          "longitude": 14.5058,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=46.0569&longitude=14.5058&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Solomon Is.",
+      "ISO": "SLB",
+      "weatherLocations": [
+        {
+          "name": "Honiara",
+          "latitude": -9.4456,
+          "longitude": 159.9729,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-9.4456&longitude=159.9729&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Somalia",
+      "ISO": "SOM",
+      "weatherLocations": [
+        {
+          "name": "Mogadishu",
+          "latitude": 2.0469,
+          "longitude": 45.3182,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=2.0469&longitude=45.3182&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Somaliland",
+      "ISO": "SOL",
+      "weatherLocations": [
+        {
+          "name": "Somaliland",
+          "latitude": 10.0391,
+          "longitude": 45.5778,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=10.0391&longitude=45.5778&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "South Africa",
+      "ISO": "ZAF",
+      "weatherLocations": [
+        {
+          "name": "Johannesburg",
+          "latitude": -26.2041,
+          "longitude": 28.0473,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-26.2041&longitude=28.0473&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Cape Town",
+          "latitude": -33.9249,
+          "longitude": 18.4241,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-33.9249&longitude=18.4241&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Durban",
+          "latitude": -29.8587,
+          "longitude": 31.0218,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-29.8587&longitude=31.0218&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Pretoria",
+          "latitude": -25.7479,
+          "longitude": 28.2293,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-25.7479&longitude=28.2293&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "South Korea",
+      "ISO": "KOR",
+      "weatherLocations": [
+        {
+          "name": "Seoul",
+          "latitude": 37.5665,
+          "longitude": 126.978,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=37.5665&longitude=126.978&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Busan",
+          "latitude": 35.1796,
+          "longitude": 129.0756,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=35.1796&longitude=129.0756&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Incheon",
+          "latitude": 37.4563,
+          "longitude": 126.7052,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=37.4563&longitude=126.7052&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Spain",
+      "ISO": "ESP",
+      "weatherLocations": [
+        {
+          "name": "Madrid",
+          "latitude": 40.4168,
+          "longitude": -3.7038,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=40.4168&longitude=-3.7038&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Barcelona",
+          "latitude": 41.3874,
+          "longitude": 2.1686,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=41.3874&longitude=2.1686&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Valencia",
+          "latitude": 39.4699,
+          "longitude": -0.3763,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=39.4699&longitude=-0.3763&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Seville",
+          "latitude": 37.3891,
+          "longitude": -5.9845,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=37.3891&longitude=-5.9845&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Sri Lanka",
+      "ISO": "LKA",
+      "weatherLocations": [
+        {
+          "name": "Colombo",
+          "latitude": 6.9271,
+          "longitude": 79.8612,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=6.9271&longitude=79.8612&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "St-Barthélemy",
+      "ISO": "BLM",
+      "weatherLocations": [
+        {
+          "name": "St-Barthélemy",
+          "latitude": 17.8958,
+          "longitude": -62.844,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=17.8958&longitude=-62.844&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "St-Martin",
+      "ISO": "MAF",
+      "weatherLocations": [
+        {
+          "name": "St-Martin",
+          "latitude": 18.09,
+          "longitude": -63.0508,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=18.09&longitude=-63.0508&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "St. Kitts and Nevis",
+      "ISO": "KNA",
+      "weatherLocations": [
+        {
+          "name": "St. Kitts and Nevis",
+          "latitude": 17.3109,
+          "longitude": -62.736,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=17.3109&longitude=-62.736&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "St. Pierre and Miquelon",
+      "ISO": "SPM",
+      "weatherLocations": [
+        {
+          "name": "St. Pierre and Miquelon",
+          "latitude": 46.9376,
+          "longitude": -56.3246,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=46.9376&longitude=-56.3246&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "St. Vin. and Gren.",
+      "ISO": "VCT",
+      "weatherLocations": [
+        {
+          "name": "St. Vin. and Gren.",
+          "latitude": 13.0098,
+          "longitude": -61.2343,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=13.0098&longitude=-61.2343&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Sudan",
+      "ISO": "SDN",
+      "weatherLocations": [
+        {
+          "name": "Khartoum",
+          "latitude": 15.5007,
+          "longitude": 32.5599,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=15.5007&longitude=32.5599&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Port Sudan",
+          "latitude": 19.6158,
+          "longitude": 37.2164,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=19.6158&longitude=37.2164&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Nyala",
+          "latitude": 12.0489,
+          "longitude": 24.8807,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=12.0489&longitude=24.8807&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Suriname",
+      "ISO": "SUR",
+      "weatherLocations": [
+        {
+          "name": "Paramaribo",
+          "latitude": 5.852,
+          "longitude": -55.2038,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=5.852&longitude=-55.2038&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Sweden",
+      "ISO": "SWE",
+      "weatherLocations": [
+        {
+          "name": "Stockholm",
+          "latitude": 59.3293,
+          "longitude": 18.0686,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=59.3293&longitude=18.0686&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Gothenburg",
+          "latitude": 57.7089,
+          "longitude": 11.9746,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=57.7089&longitude=11.9746&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Malmo",
+          "latitude": 55.605,
+          "longitude": 13.0038,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=55.605&longitude=13.0038&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Kiruna",
+          "latitude": 67.8558,
+          "longitude": 20.2253,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=67.8558&longitude=20.2253&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Switzerland",
+      "ISO": "CHE",
+      "weatherLocations": [
+        {
+          "name": "Zurich",
+          "latitude": 47.3769,
+          "longitude": 8.5417,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=47.3769&longitude=8.5417&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Syria",
+      "ISO": "SYR",
+      "weatherLocations": [
+        {
+          "name": "Damascus",
+          "latitude": 33.5138,
+          "longitude": 36.2765,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=33.5138&longitude=36.2765&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Taiwan",
+      "ISO": "TWN",
+      "weatherLocations": [
+        {
+          "name": "Taipei",
+          "latitude": 25.033,
+          "longitude": 121.5654,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=25.033&longitude=121.5654&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Tajikistan",
+      "ISO": "TJK",
+      "weatherLocations": [
+        {
+          "name": "Dushanbe",
+          "latitude": 38.5598,
+          "longitude": 68.787,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=38.5598&longitude=68.787&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Tanzania",
+      "ISO": "TZA",
+      "weatherLocations": [
+        {
+          "name": "Dar es Salaam",
+          "latitude": -6.7924,
+          "longitude": 39.2083,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-6.7924&longitude=39.2083&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Dodoma",
+          "latitude": -6.163,
+          "longitude": 35.7516,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-6.163&longitude=35.7516&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Mwanza",
+          "latitude": -2.5164,
+          "longitude": 32.9175,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-2.5164&longitude=32.9175&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Thailand",
+      "ISO": "THA",
+      "weatherLocations": [
+        {
+          "name": "Bangkok",
+          "latitude": 13.7563,
+          "longitude": 100.5018,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=13.7563&longitude=100.5018&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Chiang Mai",
+          "latitude": 18.7883,
+          "longitude": 98.9853,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=18.7883&longitude=98.9853&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Phuket",
+          "latitude": 7.8804,
+          "longitude": 98.3923,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=7.8804&longitude=98.3923&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Timor-Leste",
+      "ISO": "TLS",
+      "weatherLocations": [
+        {
+          "name": "Dili",
+          "latitude": -8.5569,
+          "longitude": 125.5603,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-8.5569&longitude=125.5603&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Togo",
+      "ISO": "TGO",
+      "weatherLocations": [
+        {
+          "name": "Lome",
+          "latitude": 6.1375,
+          "longitude": 1.2123,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=6.1375&longitude=1.2123&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Tonga",
+      "ISO": "TON",
+      "weatherLocations": [
+        {
+          "name": "Tonga",
+          "latitude": -21.1495,
+          "longitude": -175.2093,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-21.1495&longitude=-175.2093&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "ISO": "TTO",
+      "weatherLocations": [
+        {
+          "name": "Port of Spain",
+          "latitude": 10.6549,
+          "longitude": -61.5019,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=10.6549&longitude=-61.5019&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Tunisia",
+      "ISO": "TUN",
+      "weatherLocations": [
+        {
+          "name": "Tunis",
+          "latitude": 36.8065,
+          "longitude": 10.1815,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=36.8065&longitude=10.1815&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Turkey",
+      "ISO": "TUR",
+      "weatherLocations": [
+        {
+          "name": "Istanbul",
+          "latitude": 41.0082,
+          "longitude": 28.9784,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=41.0082&longitude=28.9784&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Ankara",
+          "latitude": 39.9334,
+          "longitude": 32.8597,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=39.9334&longitude=32.8597&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Izmir",
+          "latitude": 38.4237,
+          "longitude": 27.1428,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=38.4237&longitude=27.1428&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Antalya",
+          "latitude": 36.8969,
+          "longitude": 30.7133,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=36.8969&longitude=30.7133&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Turkmenistan",
+      "ISO": "TKM",
+      "weatherLocations": [
+        {
+          "name": "Ashgabat",
+          "latitude": 37.9601,
+          "longitude": 58.3261,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=37.9601&longitude=58.3261&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Turks and Caicos Is.",
+      "ISO": "TCA",
+      "weatherLocations": [
+        {
+          "name": "Turks and Caicos Is.",
+          "latitude": 21.8843,
+          "longitude": -71.942,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=21.8843&longitude=-71.942&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "U.S. Virgin Is.",
+      "ISO": "VIR",
+      "weatherLocations": [
+        {
+          "name": "U.S. Virgin Is.",
+          "latitude": 17.7525,
+          "longitude": -64.7505,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=17.7525&longitude=-64.7505&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Uganda",
+      "ISO": "UGA",
+      "weatherLocations": [
+        {
+          "name": "Kampala",
+          "latitude": 0.3476,
+          "longitude": 32.5825,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=0.3476&longitude=32.5825&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Ukraine",
+      "ISO": "UKR",
+      "weatherLocations": [
+        {
+          "name": "Kyiv",
+          "latitude": 50.4501,
+          "longitude": 30.5234,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=50.4501&longitude=30.5234&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Kharkiv",
+          "latitude": 49.9935,
+          "longitude": 36.2304,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=49.9935&longitude=36.2304&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Odesa",
+          "latitude": 46.4825,
+          "longitude": 30.7233,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=46.4825&longitude=30.7233&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Lviv",
+          "latitude": 49.8397,
+          "longitude": 24.0297,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=49.8397&longitude=24.0297&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "United Arab Emirates",
+      "ISO": "ARE",
+      "weatherLocations": [
+        {
+          "name": "Dubai",
+          "latitude": 25.2048,
+          "longitude": 55.2708,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=25.2048&longitude=55.2708&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "United Kingdom",
+      "ISO": "GBR",
+      "weatherLocations": [
+        {
+          "name": "London",
+          "latitude": 51.5072,
+          "longitude": -0.1276,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=51.5072&longitude=-0.1276&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Birmingham",
+          "latitude": 52.4862,
+          "longitude": -1.8904,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=52.4862&longitude=-1.8904&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Manchester",
+          "latitude": 53.4808,
+          "longitude": -2.2426,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=53.4808&longitude=-2.2426&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Edinburgh",
+          "latitude": 55.9533,
+          "longitude": -3.1883,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=55.9533&longitude=-3.1883&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "United States of America",
+      "ISO": "USA",
+      "weatherLocations": [
+        {
+          "name": "New York",
+          "latitude": 40.7128,
+          "longitude": -74.006,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=40.7128&longitude=-74.006&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Los Angeles",
+          "latitude": 34.0522,
+          "longitude": -118.2437,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=34.0522&longitude=-118.2437&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Chicago",
+          "latitude": 41.8781,
+          "longitude": -87.6298,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=41.8781&longitude=-87.6298&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Houston",
+          "latitude": 29.7604,
+          "longitude": -95.3698,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=29.7604&longitude=-95.3698&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Phoenix",
+          "latitude": 33.4484,
+          "longitude": -112.074,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=33.4484&longitude=-112.074&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Miami",
+          "latitude": 25.7617,
+          "longitude": -80.1918,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=25.7617&longitude=-80.1918&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Seattle",
+          "latitude": 47.6062,
+          "longitude": -122.3321,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=47.6062&longitude=-122.3321&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Anchorage",
+          "latitude": 61.2181,
+          "longitude": -149.9003,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=61.2181&longitude=-149.9003&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Uruguay",
+      "ISO": "URY",
+      "weatherLocations": [
+        {
+          "name": "Montevideo",
+          "latitude": -34.9011,
+          "longitude": -56.1645,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-34.9011&longitude=-56.1645&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Uzbekistan",
+      "ISO": "UZB",
+      "weatherLocations": [
+        {
+          "name": "Tashkent",
+          "latitude": 41.2995,
+          "longitude": 69.2401,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=41.2995&longitude=69.2401&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Vanuatu",
+      "ISO": "VUT",
+      "weatherLocations": [
+        {
+          "name": "Port Vila",
+          "latitude": -17.7333,
+          "longitude": 168.3273,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-17.7333&longitude=168.3273&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Vatican",
+      "ISO": "VAT",
+      "weatherLocations": [
+        {
+          "name": "Vatican",
+          "latitude": 41.9014,
+          "longitude": 12.4345,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=41.9014&longitude=12.4345&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Venezuela",
+      "ISO": "VEN",
+      "weatherLocations": [
+        {
+          "name": "Caracas",
+          "latitude": 10.4806,
+          "longitude": -66.9036,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=10.4806&longitude=-66.9036&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Maracaibo",
+          "latitude": 10.6427,
+          "longitude": -71.6125,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=10.6427&longitude=-71.6125&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Ciudad Guayana",
+          "latitude": 8.3512,
+          "longitude": -62.641,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=8.3512&longitude=-62.641&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Vietnam",
+      "ISO": "VNM",
+      "weatherLocations": [
+        {
+          "name": "Ho Chi Minh City",
+          "latitude": 10.8231,
+          "longitude": 106.6297,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=10.8231&longitude=106.6297&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Hanoi",
+          "latitude": 21.0285,
+          "longitude": 105.8542,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=21.0285&longitude=105.8542&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        },
+        {
+          "name": "Da Nang",
+          "latitude": 16.0544,
+          "longitude": 108.2022,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=16.0544&longitude=108.2022&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "W. Sahara",
+      "ISO": "ESH",
+      "weatherLocations": [
+        {
+          "name": "Laayoune",
+          "latitude": 27.1253,
+          "longitude": -13.1625,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=27.1253&longitude=-13.1625&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Wallis and Futuna Is.",
+      "ISO": "WLF",
+      "weatherLocations": [
+        {
+          "name": "Wallis and Futuna Is.",
+          "latitude": -14.288,
+          "longitude": -178.1132,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-14.288&longitude=-178.1132&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Yemen",
+      "ISO": "YEM",
+      "weatherLocations": [
+        {
+          "name": "Sanaa",
+          "latitude": 15.3694,
+          "longitude": 44.191,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=15.3694&longitude=44.191&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Zambia",
+      "ISO": "ZMB",
+      "weatherLocations": [
+        {
+          "name": "Lusaka",
+          "latitude": -15.3875,
+          "longitude": 28.3228,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-15.3875&longitude=28.3228&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    },
+    {
+      "name": "Zimbabwe",
+      "ISO": "ZWE",
+      "weatherLocations": [
+        {
+          "name": "Harare",
+          "latitude": -17.8252,
+          "longitude": 31.0335,
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-17.8252&longitude=31.0335&current=temperature_2m,wind_speed_10m,wind_direction_10m,relative_humidity_2m"
+        }
+      ]
+    }
+  ]
+}
